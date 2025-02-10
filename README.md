@@ -152,4 +152,3 @@ docker run -p 8000:8000 cifar10-image-classification
 ### Cloud Deployment
 
 To deploy the application to a cloud service (e.g., AWS Lambda, Hugging Face Spaces, or Google Cloud), you can use the provided Dockerfile and follow the deployment instructions for your chosen platform.
-```
