@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classification. (Interview Assignment)
+# AI-powered application for Image Classification using PyTorch and the ResNet model with CIFAR-10 dataset. (Interview Assignment)
 
 This project is an AI-powered application that uses a pre-trained ResNet-18 model fine-tuned on the CIFAR-10 dataset to classify images into one of 10 categories. The application is built using PyTorch for the model and FastAPI for the API. It is designed to be deployed locally or on Google Colab using ngrok.
 
