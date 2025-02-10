@@ -1,6 +1,6 @@
 # Image Classification using FastAPI and PyTorch
 
-This project implements a REST API for image classification using FastAPI and PyTorch. The model used is a pre-trained ResNet-18 model, fine-tuned for CIFAR-10 image classification. The API accepts images via HTTP requests and returns the predicted class along with the confidence score.
+This project implements a REST API for image classification using FastAPI and PyTorch. The model used is a pre-trained ResNet-18 model, fine-tuned for CIFAR-10 image classification. The API accepts images via HTTP requests and returns the predicted class along with the confidence score. The project is designed to be deployed locally or on Google Colab using ngrok.
 
 ## Table of Contents
 
